@@ -1,0 +1,5 @@
+record,segments,samples,windows_10ms,windows_100ms,windows_200ms,windows_500ms
+R1,18,3701,3539,347,168,63
+R2,19,3823,3652,355,171,63
+R3,5,859,814,79,39,15
+R4,10,2071,1981,193,95,36

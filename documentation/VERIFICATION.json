@@ -1,0 +1,23 @@
+{
+  "manuscript_version": 30,
+  "manuscript_sha256": "31c97b53ac1365b327b772c652b12a877a456df294b11b9f033ec5312ac6c064",
+  "baseline_replay_rows": {
+    "primary": 112,
+    "input_availability": 48,
+    "neural": 112,
+    "residual": 96,
+    "options": 56
+  },
+  "baseline_replay": "all archived rows reproduced without refitting",
+  "table3_and_ecdf": "627 paired100ms windows; R/H/C/P; prior independent scalar recurrence and two-step R/C checks passed",
+  "source_data_sha256": {
+    "data/R1/samples.csv": "4c166d0cc7c8782b10e2a74782681551a919705541703177222e869158e91f71",
+    "data/R1/local_state.csv": "8a826561f32a4cf6b53d57f4de0b6b5ed6244e00ed1579373cbcfadd86223f80",
+    "data/R2/samples.csv": "21aa37fee5bcbd734eccba90c4c15308421a10c60616d0a28e413cb65a8fa96f",
+    "data/R2/local_state.csv": "4a5962a7e2b310c10584b282811dd5dca17087ea4314183ed4a1537e43ee23c3",
+    "data/R3/samples.csv": "f1b9010a75766ca0581b424760a901bf2e39deb077a5b40ce1cc9db67f9c65c7",
+    "data/R3/local_state.csv": "fb11c487a55872ae72d9e34dfe0cebebae63c0181174cecd4072d0a726db1567",
+    "data/R4/samples.csv": "9a8e585ab68a557e3986817000f4e30373c3c08d45891b0c0ea036ed88e7644c",
+    "data/R4/local_state.csv": "b94ffd6780e0f798547669ed976522cb571192364f2a6aff9620d96a2fb22bc4"
+  }
+}
