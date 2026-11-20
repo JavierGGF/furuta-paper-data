@@ -1,6 +1,6 @@
 # Short-Horizon Prediction of a Belt-Driven Furuta Pendulum
 
-Data and frozen-model companion for *Short-Horizon Prediction of a Belt-Driven Furuta Pendulum: Model Complexity and Input Protocols*, Javier G. Fontanet. Prepared against manuscript version 30.
+Data and frozen-model companion for *Short-Horizon Prediction of a Belt-Driven Furuta Pendulum: Model Complexity and Input Protocols*, Javier G. Fontanet.
 
 ## Contents
 - `data/R1` through `data/R4`: unchanged recorded telemetry CSV files.
@@ -16,6 +16,3 @@ This is a data and model package, not executable software. Reimplement the equat
 
 ## Experimental scope
 The primary matched models were fitted on R1 and assessed on R2-R4. Exploratory models were fitted on R1+R2 and assessed on R3/R4. All records were inspected during development. The comparisons are retrospective and conditional on the stated command protocols; they do not establish physical parameter identification, selection-independent generalization or improved control. Windows are dependent observations within physical records.
-
-## Release status
-Prepared locally for author review. No public repository or permanent identifier is assigned. Redistribution licence and release metadata must be finalized before publication.
